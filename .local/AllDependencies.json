@@ -7564,15 +7564,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Mayur\\.nuget\\packages\\": {}
+    "C:\\Users\\Mayur Machhi\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "real-estate-webscraping-robot",
       "projectName": "real-estate-webscraping-robot",
-      "projectPath": "D:\\myprojects\\real-estate-webscraping-robot\\.local",
-      "packagesPath": "C:\\Users\\Mayur\\.nuget\\packages\\",
-      "outputPath": "D:\\myprojects\\real-estate-webscraping-robot\\.local"
+      "projectPath": "D:\\projects\\real-estate-webscraping-robot\\.local",
+      "packagesPath": "C:\\Users\\Mayur Machhi\\.nuget\\packages\\",
+      "outputPath": "D:\\projects\\real-estate-webscraping-robot\\.local"
     },
     "frameworks": {
       "net461": {
@@ -7598,7 +7598,7 @@
             "version": "[21.10.3, 21.10.3]"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\Mayur\\AppData\\Local\\Programs\\UiPath\\Studio\\runtime.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\UiPath\\Studio\\runtime.json"
       }
     },
     "runtimes": {
